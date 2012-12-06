@@ -1,0 +1,11 @@
+<ul id="racesList">
+	<% _.each(races, function(race) { %>
+		<a href="#/races/<%= race.id %>">
+		<li class="race">
+			<h3 class="name"><%= race.name %></h3>
+			<h4 class="distance"><%= race.distance %></h4>
+			<h4 class="bestScore"><%= race.bestScore %></h4>
+		</li>
+		</a>
+	<% }); %>
+</ul>

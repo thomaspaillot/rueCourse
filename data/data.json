@@ -1,0 +1,159 @@
+[{
+	"name": "La Com",
+	"distance": "2.4km",
+	"bestScore": "00:20:07",
+	"id": 0,
+	"checkPoints": [
+		{
+			"geometry": { "coordinates": [3.871367, 43.600912] },
+			"properties": { 
+				"id": 1,
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "1"
+			}
+		},
+		{
+			"geometry": { "coordinates": [3.873367, 43.610912] },
+			"properties": { 
+				"id": 2, 
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "2"
+			}
+
+		},
+		{
+			"geometry": { "coordinates": [3.877273, 43.611642] },
+			"properties": { 
+				"id": 3, 
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "3"
+			}	
+		},
+		{
+			"geometry": { "coordinates": [3.877637, 43.614827] },
+			"properties": { 
+				"id": 4, 
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "4"
+			}	
+		},
+		{
+			"geometry": { "coordinates": [3.880663, 43.614159] },
+			"properties": { 
+				"id": 5, 
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "5"
+			}	
+		},
+		{
+			"geometry": { "coordinates": [3.888388, 43.613335] },
+			"properties": { 
+				"id": 6, 
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "6"
+			}	
+		},
+		{
+			"geometry": { "coordinates": [3.893001, 43.615029] },
+			"properties": { 
+				"id": 7, 
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "7"
+			}	
+		},
+		{
+			"geometry": { "coordinates": [3.895898, 43.613522] },
+			"properties": { 
+				"id": 8, 
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "8"
+			}	
+		},
+		{
+			"geometry": { "coordinates": [3.898151, 43.609296] },
+			"properties": { 
+				"id": 9, 
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "9"
+			}
+		}
+	]
+},
+{
+	"name": "Le Peyrou",
+	"distance": "1.2km",
+	"bestScore": "00:06:32",
+	"id": 1,
+	"checkPoints": [
+		{
+			"geometry": { "coordinates": [3.871367, 43.600912] },
+			"properties": { 
+				"id": 1,
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "1"
+			}
+
+		},
+		{
+			"geometry": { "coordinates": [3.873367, 43.610912] },
+			"properties": { 
+				"id": 2, 
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "2"
+			}
+
+		},
+		{
+			"geometry": { "coordinates": [3.877273, 43.611642] },
+			"properties": { 
+				"id": 3, 
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "3"
+			}	
+		},
+		{
+			"geometry": { "coordinates": [3.877637, 43.614827] },
+			"properties": { 
+				"id": 4, 
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "4"
+			}	
+		},
+		{
+			"geometry": { "coordinates": [3.880663, 43.614159] },
+			"properties": { 
+				"id": 5, 
+				"marker-size": "small",
+				"marker-color": "#4CABE6", 
+				"marker-symbol": "star-stroked",
+				"title": "5"
+			}	
+		}
+	]
+}]
